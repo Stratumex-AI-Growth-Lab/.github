@@ -35,7 +35,7 @@ We believe in using the best-in-class tools to ensure speed and reliability:
 We are always looking for visionary engineers, data scientists, and growth strategists. 
 
 * **Looking to contribute?** Check out our [open issues](https://github.com/Stratumex-AI-Growth-Lab/cue-it-now/issues).
-* **Inquiries?** Reach out to us at `britt@stratumex.ai`.
+* **Inquiries?** Reach out to us at `corwin@stratumex.ai,britt@stratumex.ai`.
 
 ---
 
