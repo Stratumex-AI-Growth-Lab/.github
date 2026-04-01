@@ -1,3 +1,7 @@
+<a href="https://stratumex.ai">
+  <img src="https://stratumex.ai/logo/stratumex-logo-full.svg?v=3" width="300" alt="Stratumex Logo">
+</a>
+
 # Stratumex — AI Growth Lab 🧪✨
 
 ### *Bridging the gap between AI research and production-ready systems.*
