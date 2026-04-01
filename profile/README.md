@@ -39,7 +39,7 @@ We utilize a best-in-class stack to ensure speed, security, and infinite scalabi
 We are always looking for visionary engineers and growth strategists to join our experiments.
 
 * **Contribute**: Check out our [open issues](https://github.com/Stratumex-AI-Growth-Lab/cue-it-now/issues) in the `cue-it-now` rebuild.
-* **Get in Touch**: Reach out to the lab leads at `britt@stratumex.ai` or `corwin@stratumex.ai`.
+* **Get in Touch**: Reach out to the lab leads at `corwin@stratumex.ai` or `britt@stratumex.ai`.
 
 ---
 
